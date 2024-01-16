@@ -7,7 +7,7 @@ The 'Practical Guide for Data Analysis: Higher Education Census and ENADE' serve
 
 ## Author
 
-- [Antonio Serrano](https://github.com/antoniogss)
+- [Antonio Serrano](https://www.linkedin.com/in/antoniogsserrano/)
 
 ## License
 
