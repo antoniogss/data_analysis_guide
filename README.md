@@ -3,7 +3,7 @@
 
 #  Data Analysis Guide
 
-The 'Practical Guide for Data Analysis: Higher Education Census and ENADE' serves as a reference for the computational tools that can make working with the data provided by the SoU_Science Center more user-friendly. Its main focus is on recommending tools, software, and programming languages.
+The 'Practical Guide for Data Analysis: Higher Education Census and ENADE' serves as a reference for the computational tools that can make working with the data provided by the SoU_Ciência Study Center more user-friendly. Its main focus is on recommending tools, software, and programming languages.
 
 ## Author
 
